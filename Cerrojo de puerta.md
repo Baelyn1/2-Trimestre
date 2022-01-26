@@ -7,3 +7,4 @@ El proceso de creacion del cerrojo de puerta hubieron inconvenientes con el codi
 https://github.com/Baelyn1/2-Trimestre/blob/main/sketch_jan26a.ino
 
 https://raw.githubusercontent.com/Baelyn1/2-Trimestre/main/IMG_2562.JPG
+
