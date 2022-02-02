@@ -53,7 +53,6 @@ void setup() {
   pinMode(2,OUTPUT);
 }
 
-
  
 void loop() {
   Serial.print("Boton:  ");
@@ -75,6 +74,5 @@ void loop() {
     digitalWrite(2, LOW);
    }
 }
-
 ```
 
