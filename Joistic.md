@@ -31,3 +31,13 @@ void loop() {
 }
 ```
 # Funcionamiento
+
+El funcionamiento del joistic y del codigo de arriba esta correctamente hecho y el unico problema surguido fue una pequeña dificultad de poner los cables y conectarlos donde debian ponerse
+
+
+
+
+
+
+
+
