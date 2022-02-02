@@ -76,3 +76,6 @@ void loop() {
 }
 ```
 
+La variacion se hizo cogiendo varias partes del codigo de nave espacial y con estos hacer modificaciones que en si hacen que el joistic cada vez que se apriete como si fuera un boton
+
+
