@@ -30,3 +30,4 @@ void loop() {
   delay(150);
 }
 ```
+# Funcionamiento
