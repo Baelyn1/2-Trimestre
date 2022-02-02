@@ -21,9 +21,9 @@ Colocación de pines
 
 ## Código
 
-[Enlace al código]
+https://github.com/Baelyn1/2-Trimestre/blob/main/prueba_temperatura.ino
 
-El código no es el mismo que el de la página. Hemos modificado.... 
+El código no es el mismo que el de la página. Hemos modificado varias partes para que se adecuaran
 
 ## Opinión personal
 
