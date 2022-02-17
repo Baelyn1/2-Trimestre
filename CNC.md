@@ -27,8 +27,6 @@ El 3d es en el caso del CNC
 
 
 
-
-
 ## Fuente de informacion
 
 informacion para continuar (https://www.youtube.com/watch?v=am5lNsBlYM8)
