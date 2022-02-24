@@ -2,11 +2,11 @@
 
 Coincidente: Hace que dos o mas entidades de un mismo boceto compartan la misma ubicacion.
 
-Concéntrico: Hace que los arcos o circulos compartan una misma ubicacion
+Concéntrico: Hace que los arcos o circulos compartan un punto central.
 
-Paralela:
+Paralela: Hace que dos o mas lines queden paralelas.
 
-Tangente:
+Tangente: 
 
 Horizontal:
 
