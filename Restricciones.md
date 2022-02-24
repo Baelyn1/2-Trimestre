@@ -1,8 +1,8 @@
 # Restricciones
 
-Coincidente: Hace que dos o mas entidades de un mismo boceto compartan la misma ubicacion
+Coincidente: Hace que dos o mas entidades de un mismo boceto compartan la misma ubicacion.
 
-Concéntrico:
+Concéntrico: Hace que los arcos o circulos compartan una misma ubicacion
 
 Paralela:
 
