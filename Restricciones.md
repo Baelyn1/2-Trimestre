@@ -6,15 +6,15 @@ Concéntrico: Hace que los arcos o circulos compartan un punto central.
 
 Paralela: Hace que dos o mas lines queden paralelas.
 
-Tangente: 
+Tangente: Establece dos relaciones tangentes entre dos entidades de boceto o entre una entidad de boceto y un plano.
 
-Horizontal:
+Horizontal: Restrinje el punto seleccionado con otra entidad seleccionada para un posicionamiento horizontal.
 
-Vertical:
+Vertical: Restrinje el punto selecionado con otra entidad seleccionada para un posicionamiento vertical.
 
-Perpendicular:
+Perpendicular: Crea dos lineas perpendiculares.
 
-Igual:
+Igual: hace que varias lineas tengan la misma longuitud o varios arcos tengan el mismo radio 
 
 Punto medio:
 
